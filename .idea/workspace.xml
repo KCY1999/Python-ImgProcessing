@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af8b465e-8634-4371-af24-5c0fea36b4a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bkrFGaNGGUMEsjEIn4hQuqd4eX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\andyg\Desktop\PyProject\lastHW" />
+      <recent name="C:\Users\andyg\Desktop\PyProject\lastHW\venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lastt">
+    <configuration name="last" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lastHW" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/last.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lastt" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="lastHW" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lastt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.lastt" />
+      <item itemvalue="Python.last" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.last" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af8b465e-8634-4371-af24-5c0fea36b4a4" name="Default Changelist" comment="" />
+      <created>1589186826936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589186826936</updated>
+      <workItem from="1589186843486" duration="829000" />
+      <workItem from="1589188593753" duration="364000" />
+      <workItem from="1589269341493" duration="9970000" />
+      <workItem from="1589790230507" duration="1985000" />
+      <workItem from="1589939926168" duration="3694000" />
+      <workItem from="1591149448483" duration="725000" />
+      <workItem from="1591152330502" duration="3265000" />
+      <workItem from="1591604390275" duration="860000" />
+      <workItem from="1591612884263" duration="2813000" />
+      <workItem from="1592201081477" duration="9392000" />
+      <workItem from="1592294518945" duration="22348000" />
+      <workItem from="1592334453520" duration="1796000" />
+      <workItem from="1592357103327" duration="7498000" />
+      <workItem from="1593482444542" duration="6257000" />
+      <workItem from="1593489228646" duration="21000" />
+      <workItem from="1593489297659" duration="55000" />
+      <workItem from="1593489508784" duration="1768000" />
+      <workItem from="1593836395251" duration="1239000" />
+      <workItem from="1594086527148" duration="1596000" />
+      <workItem from="1596515391264" duration="6000" />
+      <workItem from="1600736841691" duration="233000" />
+      <workItem from="1632044985376" duration="35000" />
+      <workItem from="1632045062256" duration="113000" />
+      <workItem from="1633883537717" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1492" height="189" key="GridCell.Tab.0.bottom" timestamp="1633883777925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="189" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1633883777925" />
+    <state width="1492" height="189" key="GridCell.Tab.0.center" timestamp="1633883777924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="189" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1633883777924" />
+    <state width="1492" height="189" key="GridCell.Tab.0.left" timestamp="1633883777924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="189" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1633883777924" />
+    <state width="1492" height="189" key="GridCell.Tab.0.right" timestamp="1633883777925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="189" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1633883777925" />
+    <state x="268" y="110" key="SettingsEditor" timestamp="1633883775164">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="268" y="110" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1633883775164" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lastHW$TRY.coverage" NAME="TRY Coverage Results" MODIFIED="1592312501680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HW" />
+    <SUITE FILE_PATH="coverage/ImgProcessing$lastt.coverage" NAME="lastt Coverage Results" MODIFIED="1633883777903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lastHW$last.coverage" NAME="last Coverage Results" MODIFIED="1593484926255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lastHW$vid.coverage" NAME="vid Coverage Results" MODIFIED="1589188368457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opcv-video" />
+    <SUITE FILE_PATH="coverage/lastHW$lastt.coverage" NAME="lastt Coverage Results" MODIFIED="1632045067778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
